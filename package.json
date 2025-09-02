@@ -1,0 +1,20 @@
+{
+  "name": "shopping-dashboard",
+  "version": "1.0.0",
+  "description": "실시간 쇼핑 대시보드",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "crypto": "^1.0.1"
+  },
+  "keywords": ["shopping", "dashboard", "naver", "coupang"],
+  "author": "Your Name",
+  "license": "MIT"
+}
